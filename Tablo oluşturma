@@ -1,0 +1,46 @@
+<table border="1">
+<tr>
+<th>PAZARTESİ</th>
+<th>SALI</th>
+<th>ÇARŞAMBA</th>
+<th>PERŞEMBE</th>
+<th>CUMA</th>
+</tr>
+<tr>
+<td>OOP</td>
+<td>ALGR</td>
+<td>ECONOMI </td>
+<td>----</td>
+<td>--</td>
+
+</tr>
+<tr>
+<td>OOP</td>
+<td>ALGRT</td>
+<td>ECONOMI </td>
+<td>----</td>
+<td>--</td>
+
+</tr>
+<tr>
+<td>tarih</td>
+<td>int pr</td>
+<td>ECONOMI </td>
+<td>----</td>
+<td>--</td>
+</tr>
+<tr>
+<td>e.e</td>
+<td>int pro</td>
+<td>system prog </td>
+<td>----</td>
+<td>--</td>
+</tr>
+<tr>
+<td>e.e</td>
+<td>int.pro</td>
+<td>system prog </td>
+<td>----</td>
+<td>--</td>
+</tr>
+</table> 
